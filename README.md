@@ -1,7 +1,7 @@
 # Relational Creche Database Assignment
 
 ## Description
-I have a created a database using the speicifications below along with PostgreSQL functions, triggers and queries.
+This project consists of a SQL database (specifications below) along with PostgreSQL functions, triggers and queries.
 
 ## Speicifications
 A local creche minds children during the day. When a child is registered, the child’s name and date of birth are recorded, along with the name they are commonly called. 
